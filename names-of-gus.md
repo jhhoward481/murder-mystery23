@@ -3,20 +3,9 @@ Die Harder ("Daredevils!")
 
 Homeskillet ("The Greatest Adventure In The History Of Basic Cable")
 
-
-
-
-
 Magic Head ("Shawn vs. The Red Phantom")
 
-
-
-
-
 Gus T.T. Showbiz (The Extra T is for Extra Talent) ("American Duos")
-
-
-
 
 Mr. Vocab ("Game, Set... Murder")
 
@@ -26,20 +15,15 @@ Nick Nack ("The Old And The Restless)
 
 Bruton Gaster ("Shawn (And Gus) Of The Dead")
 
-
 Lemongrass Gogulope ("Ghosts")
 
 Squirts MacIntosh ("Daredevils!")
 
 Mc ('tongue clicking sounds') Took ("Forget Me Not")
 
-
-
 Gus “Silly Pants” Jackson ("9 Lives")
 
 Fearless Guster ("Ghosts")
-
-
 
 Chesterfield McMillan ("There Might Be Blood")
 
@@ -47,9 +31,7 @@ Felicia Fancybottom ("Poker? I Barely Know Her")
 
 Tan ("Black And Tan: A Crime of Fashion")
 
-
 Longbranch Pennywhistle ("Talk Derby To Me")
-
 
 D’Andre Pride ("Scary Sherry: Bianca's Toast")
 
@@ -139,8 +121,6 @@ Control Alt Delete ("Viagra Falls")
 
 The Jackal ("From The Earth To Starbucks")
 
-Yasmine Bleeth ("Extradition II: The Actual Extradition Part")
-
 Lodge Blackmunn ("Dual Spires")
 
 Jet Blackness ("Dual Spires")
@@ -174,7 +154,6 @@ Suggs ("Shawn, Interrupted")
 Ingle Woods ("In For A Penny...")
 
 Brutal Hustler ("Indiana Shawn And The Temple Of The Kinda Crappy, Rusty Old Dagger")
-
 
 Eddie Adams From Torrance ("Heeeeere's Lassie")
 
@@ -226,19 +205,10 @@ Robert "Booooooooooob" Jones (Remake A.K.A. Cloudy... With a Chance of Improveme
 
 My Black Cameron ("Remake A.K.A. Cloudy... With a Chance of Improvement")
 
-Burton Guster Black Spencer ("A Nightmare on State Street")
-
-Won't use:
-
+Burton Guster Black Spencer ("A Nightmare on State Street")Won't use:
 - Blackstar ("The Greatest Adventure In The History Of Basic Cable")
 - Fellatio del Toro ("Heeeeere's Lassie")
-- Big Baby Burton ("The Greatest Adventure In The History Of Basic Cable")
-
-
-
-
-
-Used:
+- Big Baby Burton ("The Greatest Adventure In The History Of Basic Cable")Used:
 
 - Bighead Burton ("And Down The Stretch Comes - Murder")
 - Ovaltine Jenkins ("Zero To Murder In 60 - Seconds")
@@ -254,3 +224,4 @@ Used:
 - Scrooge Jones ("Christmas Joy")
 - SuperSmeller/ SuperSniffer ("Spellingg Bee")
 - Ernesto Agapito Garces con y a de Abelar ("The Greatest Adventure In The History Of Basic Cable")
+- Yasmine Bleeth ("Extradition II: The Actual Extradition Part")

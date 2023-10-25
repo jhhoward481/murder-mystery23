@@ -4,10 +4,7 @@ edited:
 contributors:
   - Jack Howard
   - 
----
-
-
-Play styles:
+---Play styles:
 - all-in
   - would take what they have and run with it
 - timid

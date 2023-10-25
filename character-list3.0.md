@@ -1,16 +1,10 @@
-Probably not using this stuff.....
-
-
-Character List 2.0
+Probably not using this stuff.....Character List 2.0
 Halloween 2021
 The Mystery of Warewater Estate
 October, 1955
 Cape Cod, Massachusetts
 In 1950s Massachusetts, in a wealthy gated community, a murder most foul is about to happen.
 It is a story of greed, lust, and intrigue.
-
-
-
 Age: 36
 Gerald E. Fitz: () The fast-talking director of South Crystal Paper Company, a rival paper mill in Texas. He is obsequious and sniveling in front of Walter, but a commanding presence in front of others. South Crystal is a subsidiary of Walter Colville’s Elite Fidelity conglomerate. Under secret orders from Colville, Fitz’s agents have been sabotaging Christopher Johnson’s paper mill to trigger a takeover. However, Fitz has his own agenda. He plans to reveal Colville’s plan to take over Johnson’s company and the sabotage to the rest of the board members of Elite Fidelity to secure a promotion and more power in the conglomerate at Colville’s expense.
 Nationality: American
@@ -90,5 +84,3 @@ Age: 56
 Chet McAverson or Billy Longshanks: An obnoxious 1950s frat kid, and Walter Colville’s younger cousin. He abuses the maids and servants. (Optional)
 Nationality: American
 Age: 21
-
-
