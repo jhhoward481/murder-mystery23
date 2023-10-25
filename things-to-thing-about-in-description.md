@@ -1,7 +1,11 @@
-mood
-where from
-motive
-age
+---
+created: 2023-1021
+edited:
+contributors:
+  - Jack Howard
+  - 
+---
+
 
 Play styles:
 - all-in
@@ -9,3 +13,9 @@ Play styles:
 - timid
   - have at least 1 or 2 things they can rely on 
   - 
+
+Good to know:
+- mood
+- where from
+- motive
+- age

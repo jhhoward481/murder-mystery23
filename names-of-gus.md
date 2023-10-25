@@ -1,30 +1,22 @@
 
 Die Harder ("Daredevils!")
 
-
 Homeskillet ("The Greatest Adventure In The History Of Basic Cable")
 
-Big Baby Burton ("The Greatest Adventure In The History Of Basic Cable")
 
-Burt the Billowy Bear ("And Down The Stretch Comes Murder")
 
-Blackstar ("The Greatest Adventure In The History Of Basic Cable")
 
 
 Magic Head ("Shawn vs. The Red Phantom")
 
-SuperSmeller/ SuperSniffer ("Spellingg Bee")
 
-Slicks ("Tuesday The 17th")
 
-Peter Panic ("Speak Now Or Forever Hold Your Piece")
+
 
 Gus T.T. Showbiz (The Extra T is for Extra Talent) ("American Duos")
 
 
-Schoonie “U-Turn” Singleton ("Gus' Dad May Have Killed An Old Guy")
 
-Earnest Lambert Watkins ("Game, Set... Murder")
 
 Mr. Vocab ("Game, Set... Murder")
 
@@ -34,7 +26,6 @@ Nick Nack ("The Old And The Restless)
 
 Bruton Gaster ("Shawn (And Gus) Of The Dead")
 
-Lavender Gooms ("Lights, Camera... Homicidio")
 
 Lemongrass Gogulope ("Ghosts")
 
@@ -42,17 +33,13 @@ Squirts MacIntosh ("Daredevils!")
 
 Mc ('tongue clicking sounds') Took ("Forget Me Not")
 
-François ("Who Ya Gonna Call")
 
-Galileo Humpkins ("Bounty Hunters!")
 
 Gus “Silly Pants” Jackson ("9 Lives")
 
 Fearless Guster ("Ghosts")
 
-Shmuel Cohen ("Rob-a-bye Baby")
 
-Methuselah Honeysuckle ("Disco Didn't Die; It Was Murdered")
 
 Chesterfield McMillan ("There Might Be Blood")
 
@@ -60,11 +47,9 @@ Felicia Fancybottom ("Poker? I Barely Know Her")
 
 Tan ("Black And Tan: A Crime of Fashion")
 
-Ernesto Agapito Garces con y a de Abelar ("The Greatest Adventure In The History Of Basic Cable")
 
 Longbranch Pennywhistle ("Talk Derby To Me")
 
-Scrooge Jones ("Christmas Joy")
 
 D’Andre Pride ("Scary Sherry: Bianca's Toast")
 
@@ -190,7 +175,6 @@ Ingle Woods ("In For A Penny...")
 
 Brutal Hustler ("Indiana Shawn And The Temple Of The Kinda Crappy, Rusty Old Dagger")
 
-Fellatio del Toro ("Heeeeere's Lassie")
 
 Eddie Adams From Torrance ("Heeeeere's Lassie")
 
@@ -244,8 +228,29 @@ My Black Cameron ("Remake A.K.A. Cloudy... With a Chance of Improvement")
 
 Burton Guster Black Spencer ("A Nightmare on State Street")
 
+Won't use:
+
+- Blackstar ("The Greatest Adventure In The History Of Basic Cable")
+- Fellatio del Toro ("Heeeeere's Lassie")
+- Big Baby Burton ("The Greatest Adventure In The History Of Basic Cable")
+
+
+
+
+
 Used:
 
-Bighead Burton ("And Down The Stretch Comes Murder")
-Ovaltine Jenkins ("Zero To Murder In 60 Seconds")
-Chocolate Columbo ("Shawn vs. The Red Phantom")
+- Bighead Burton ("And Down The Stretch Comes - Murder")
+- Ovaltine Jenkins ("Zero To Murder In 60 - Seconds")
+- Chocolate Columbo ("Shawn vs. The Red Phantom")
+- Earnest Lambert Watkins ("Game, Set... Murder")
+- Methuselah Honeysuckle ("Disco Didn't Die; It - Was Murdered")
+- Burt the Billowy Bear ("And Down The Stretch - Comes Murder")
+- Lavender Gooms ("Lights, Camera... Homicidio")
+- François ("Who Ya Gonna Call")
+- Slicks ("Tuesday The 17th")
+- Peter Panic ("Speak Now Or Forever Hold Your Piece")
+- Galileo Humpkins ("Bounty Hunters!")
+- Scrooge Jones ("Christmas Joy")
+- SuperSmeller/ SuperSniffer ("Spellingg Bee")
+- Ernesto Agapito Garces con y a de Abelar ("The Greatest Adventure In The History Of Basic Cable")
