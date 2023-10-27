@@ -3,41 +3,30 @@ Die Harder ("Daredevils!")
 
 Homeskillet ("The Greatest Adventure In The History Of Basic Cable")
 
-Magic Head ("Shawn vs. The Red Phantom")
 
 Gus T.T. Showbiz (The Extra T is for Extra Talent) ("American Duos")
 
 Mr. Vocab ("Game, Set... Murder")
 
-Bud (from “The Cosby Show”) ("Scary Sherry: Bianca's Toast")
 
-Nick Nack ("The Old And The Restless)
 
-Bruton Gaster ("Shawn (And Gus) Of The Dead")
-
-Lemongrass Gogulope ("Ghosts")
 
 Squirts MacIntosh ("Daredevils!")
 
-Mc ('tongue clicking sounds') Took ("Forget Me Not")
 
 Gus “Silly Pants” Jackson ("9 Lives")
 
 Fearless Guster ("Ghosts")
 
-Chesterfield McMillan ("There Might Be Blood")
 
-Felicia Fancybottom ("Poker? I Barely Know Her")
 
 Tan ("Black And Tan: A Crime of Fashion")
 
 Longbranch Pennywhistle ("Talk Derby To Me")
 
-D’Andre Pride ("Scary Sherry: Bianca's Toast")
 
 Hummingbird Saltalamacchia ("Six Feet Under The Sea")
 
-Wally Ali ("Earth, Wind, And... Wait For It")
 
 Gustice ("Mr. Yin Presents")
 
@@ -47,7 +36,6 @@ Trapezius Milkington ("An Evening With Mr. Yang")
 
 Sterling Cooper ("An Evening With Mr. Yang")
 
-Burton “Oil Can” Guster ("And Down The Stretch Comes Murder")
 
 Hollabackatcha ("Truer Lies")
 
@@ -131,7 +119,6 @@ Radio Star (Video will kill him) ("Dead Bear Walking")
 
 Gusjay Gupta ("Dead Bear Walking")
 
-Reginald G-String AKA Crowd Pleaser ("Dead Bear Walking")
 
 Tabricksha Schillington ("Meat Is Murder, But Murder Is Also Murder")
 
@@ -149,7 +136,6 @@ Watson Williams (The Amazing Psych-Man & Tap-Man, Issue 2")
 
 Benedict Arnold Jackson (The Amazing Psych-Man & Tap-Man, Issue 2")
 
-Suggs ("Shawn, Interrupted")
 
 Ingle Woods ("In For A Penny...")
 
@@ -163,7 +149,6 @@ Candyman ("Santabarbaratown")
 
 Sh'Dynasty ("Santabarbaratown")
 
-Gurn Blandsten ("Santabarbaratown 2")
 
 Immaculate Conception ("Juliet Takes a Luvvah")
 
@@ -175,9 +160,6 @@ Domo Arigato ("100 Clues")
 
 Jonas Gustavsson ("Right Turn or Left for Dead")
 
-Blue Ivy Carter ("Juliet Wears the Pantsuit")
-
-Bill Ofrights ("Santa Barbarian Candidate")
 
 Vijay Armitraj ("Dead Air")
 
@@ -185,7 +167,6 @@ Django Unchained ("Dead Air")
 
 A Playa Named Gus ("Dead Air")
 
-Darryl ("Nip and Suck It")
 
 Flapjack Palmdale (emergency contact in doctor's computer) ("Nip and Suck It")
 
@@ -205,11 +186,15 @@ Robert "Booooooooooob" Jones (Remake A.K.A. Cloudy... With a Chance of Improveme
 
 My Black Cameron ("Remake A.K.A. Cloudy... With a Chance of Improvement")
 
-Burton Guster Black Spencer ("A Nightmare on State Street")Won't use:
+Burton Guster Black Spencer ("A Nightmare on State Street")
+
+Won't use:
 - Blackstar ("The Greatest Adventure In The History Of Basic Cable")
 - Fellatio del Toro ("Heeeeere's Lassie")
-- Big Baby Burton ("The Greatest Adventure In The History Of Basic Cable")Used:
+- Big Baby Burton ("The Greatest Adventure In The History Of Basic Cable")
+- Reginald G-String AKA Crowd Pleaser ("Dead Bear Walking")
 
+Used:
 - Bighead Burton ("And Down The Stretch Comes - Murder")
 - Ovaltine Jenkins ("Zero To Murder In 60 - Seconds")
 - Chocolate Columbo ("Shawn vs. The Red Phantom")
@@ -225,3 +210,18 @@ Burton Guster Black Spencer ("A Nightmare on State Street")Won't use:
 - SuperSmeller/ SuperSniffer ("Spellingg Bee")
 - Ernesto Agapito Garces con y a de Abelar ("The Greatest Adventure In The History Of Basic Cable")
 - Yasmine Bleeth ("Extradition II: The Actual Extradition Part")
+- Bruton Gaster ("Shawn (And Gus) Of The Dead")
+- Wally Ali ("Earth, Wind, And... Wait For It")
+- Magic Head ("Shawn vs. The Red Phantom")
+- D’Andre Pride ("Scary Sherry: Bianca's Toast")
+- Bud (from “The Cosby Show”) ("Scary Sherry: Bianca's Toast")
+- Chesterfield McMillan ("There Might Be Blood")
+- Blue Ivy Carter ("Juliet Wears the Pantsuit")
+- Nick Nack ("The Old And The Restless)
+- Suggs ("Shawn, Interrupted")
+- Bill Ofrights ("Santa Barbarian Candidate")
+- Darryl ("Nip and Suck It")
+- Burton “Oil Can” Guster ("And Down The Stretch Comes Murder")
+- Gurn Blandsten ("Santabarbaratown 2")
+- Lemongrass Gogulope ("Ghosts")
+- Mc ('tongue clicking sounds') Took ("Forget Me Not")

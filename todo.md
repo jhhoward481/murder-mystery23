@@ -19,13 +19,13 @@ Characters (Prelim)
 - [ ] [10]
 - [x] [11]
 - [x] [12]
-- [ ] [13]
+- [x] [13]
 - [x] [14]
 - [x] [15]
 - [ ] [16]
 - [ ] [17]
 - [x] [18]
-- [ ] [19]
+- [x] [19]
 - [x] [20]
 - [x] [21]
 - [ ] [22]
@@ -36,7 +36,7 @@ Characters (Prelim)
 - [x] [27]
 - [ ] [28]
 - [x] [29]
-- [ ] [30]
+- [x] [30]
 - [ ] [31]
 - [x] [32]
 - [ ] [33]
@@ -45,7 +45,7 @@ Characters (Prelim)
 - [ ] [36]
 - [ ] [37]
 - [ ] [38]
-- [ ] [39]
+- [x] [39]
 - [x] [40]
 - [ ] [41]
 - [ ] [42]
@@ -56,12 +56,12 @@ Characters (Prelim)
 - [ ] [47]
 - [x] [48]
 - [ ] [49]
-- [ ] [50]
+- [x] [50]
 - [ ] [51]
 - [ ] [52]
-- [ ] [53]
+- [x] [53]
 - [ ] [54]
-- [ ] [55]
+- [x] [55]
 - [ ] [56]
 - [ ] [57]
 - [ ] [58]
@@ -69,23 +69,48 @@ Characters (Prelim)
 - [ ] [60]
 - [ ] [61]
 - [ ] [62]
-- [ ] [63]
+- [x] [63]
 - [ ] [64]
 
 Assigning Items
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9
-- [ ] 10
-- [ ] 11
-- [ ] 12
-- [ ] 13
-- [ ] 14
-- [ ] 15
+- [ ] A: Atwater multi-tool
+  - [3] 
+- [ ] B: two Bananas
+- [ ] C: Colorado flag
+- [ ] D: Deadly Crowbar
+- [ ] E: Expressionless portrait
+- [ ] F: Fork-spoon
+  - [1]
+- [ ] G: Golden idol
+  - [1]
+- [ ] H: Honorable medallion
+- [ ] I: Infinity stone
+  - [3] 
+- [ ] J: Jug of blood
+- [ ] K: usb Keyboard
+- [ ] L: antique Lamp
+  - [2] 
+- [ ] M: Meteorite core
+  - [1] 
+- [ ] N: Noisemaker
+  - [2] 
+- [ ] O: Owala bottle
+  - [2] 
 
+
+Items:
+- [x] Gold Rubber duck (duckenstone)
+- [x] Colorado flag
+- [x] Atwater multi-tool
+- [x] An Owala
+- [x] A mysterious portrait
+- [x] A deadly crowbar
+- [x] Two bananas
+- [x] The power infinity stone (The Orb)
+- [x] RUF spork
+- [x] Meteorite Core
+- [x] A useless medallion
+- [x] A USB keyboard
+- [x] A quart of blood (or other mysterious substance)
+- [x] A cowbell
+- [x] An antique NC State lamp
