@@ -1,53 +1,38 @@
+Longbranch Pennywhistle ("Talk Derby To Me")
+
+Jazz Hands ("He Dead")
+
+
+MC ClapYoHandz ("Shawn And Gus In Drag (Racing)")
+
+Mellowrush ("Shawn And Gus In Drag (Racing)")
+
+Sh'Dynasty ("Santabarbaratown")
+
 
 Die Harder ("Daredevils!")
 
 Homeskillet ("The Greatest Adventure In The History Of Basic Cable")
 
-
 Gus T.T. Showbiz (The Extra T is for Extra Talent) ("American Duos")
-
-Mr. Vocab ("Game, Set... Murder")
-
-
-
-
-Squirts MacIntosh ("Daredevils!")
-
 
 Gus “Silly Pants” Jackson ("9 Lives")
 
 Fearless Guster ("Ghosts")
 
-
-
 Tan ("Black And Tan: A Crime of Fashion")
-
-Longbranch Pennywhistle ("Talk Derby To Me")
-
-
-Hummingbird Saltalamacchia ("Six Feet Under The Sea")
 
 
 Gustice ("Mr. Yin Presents")
 
-Dequan “Smallpox” Randolph ("Any Given Friday Night At 10PM, 9PM Central")
-
-Trapezius Milkington ("An Evening With Mr. Yang")
-
 Sterling Cooper ("An Evening With Mr. Yang")
 
-
-Hollabackatcha ("Truer Lies")
-
-Jazz Hands ("He Dead")
 
 Gus Brown ("High Top Fade-Out")
 
 John Slade ("High Top Fade-Out")
 
 Detective Miles ("High Top Fade-Out")
-
-Greg ("Bollywood Homicide")
 
 Doughnut Holschtein ("Shawn Takes A Shot In The Dark")
 
@@ -65,7 +50,6 @@ Cheswick ("Let's Get Hairy")
 
 Shawn ("The Devil's In The Details... And The Upstairs Bedroom")
 
-Ghee Buttersnaps aka “The Heater” ("You Can't Handle This Episode")
 
 The Vault of Secrets ("A Very Juliet Episode")
 
@@ -89,7 +73,6 @@ Chaz Bono ("Chivalry Is Not Dead... But Someone Is")
 
 Chocolate Einstein ("Shawn And Gus In Drag (Racing)")
 
-MC ClapYoHandz ("Shawn And Gus In Drag (Racing)")
 
 Sher-Black-Lock ("Shawn And Gus In Drag (Racing)")
 
@@ -99,7 +82,6 @@ Road Rash ("Shawn And Gus In Drag (Racing)")
 
 G-Force ("Shawn And Gus In Drag (Racing)")
 
-Mellowrush ("Shawn And Gus In Drag (Racing)")
 
 Crankshaft ("Shawn And Gus In Drag (Racing)")
 
@@ -137,7 +119,7 @@ Watson Williams (The Amazing Psych-Man & Tap-Man, Issue 2")
 Benedict Arnold Jackson (The Amazing Psych-Man & Tap-Man, Issue 2")
 
 
-Ingle Woods ("In For A Penny...")
+
 
 Brutal Hustler ("Indiana Shawn And The Temple Of The Kinda Crappy, Rusty Old Dagger")
 
@@ -146,11 +128,6 @@ Eddie Adams From Torrance ("Heeeeere's Lassie")
 Larenz Tate ("Shawn and the Real Girl")
 
 Candyman ("Santabarbaratown")
-
-Sh'Dynasty ("Santabarbaratown")
-
-
-Immaculate Conception ("Juliet Takes a Luvvah")
 
 Pootie Tang ("Lassie Jerky ")
 
@@ -168,7 +145,6 @@ Django Unchained ("Dead Air")
 A Playa Named Gus ("Dead Air")
 
 
-Flapjack Palmdale (emergency contact in doctor's computer) ("Nip and Suck It")
 
 Burton Trout (no relation) ("No Trout About It")
 
@@ -225,3 +201,14 @@ Used:
 - Gurn Blandsten ("Santabarbaratown 2")
 - Lemongrass Gogulope ("Ghosts")
 - Mc ('tongue clicking sounds') Took ("Forget Me Not")
+- Ingle Woods ("In For A Penny...")
+- Squirts MacIntosh ("Daredevils!")
+- Hummingbird Saltalamacchia ("Six Feet Under The Sea")
+- Dequan “Smallpox” Randolph ("Any Given Friday Night At 10PM, 9PM Central")
+- Mr. Vocab ("Game, Set... Murder")
+- Trapezius Milkington ("An Evening With Mr. Yang")
+- Hollabackatcha ("Truer Lies")
+- Greg ("Bollywood Homicide")
+- Immaculate Conception ("Juliet Takes a Luvvah")
+- Flapjack Palmdale (emergency contact in doctor's computer) ("Nip and Suck It")
+- Ghee Buttersnaps aka “The Heater” ("You Can't Handle This Episode")
