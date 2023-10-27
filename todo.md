@@ -73,30 +73,69 @@ Characters (Prelim)
 - [ ] [64]
 
 Assigning Items
-- [ ] A: Atwater multi-tool
+- [x] A: Atwater multi-tool
   - [3] 
-- [ ] B: two Bananas
-- [ ] C: Colorado flag
-- [ ] D: Deadly Crowbar
-- [ ] E: Expressionless portrait
-- [ ] F: Fork-spoon
+  - [8]
+- [x] B: two Bananas
+  - [16] 
+  - [4]
+  - [11]
+- [x] C: Colorado flag
+  - [11] 
+  - [6]
+- [x] D: Deadly Crowbar
+  - [5] 
+  - [12]
+  - [15]
+- [x] E: Expressionless portrait
+  - [4] 
+  - [13]
+- [x] F: Fork-spoon
   - [1]
-- [ ] G: Golden idol
+  - [6]
+  - [9]
+  - [14]
+- [x] G: Golden idol
+  - [8]
   - [1]
-- [ ] H: Honorable medallion
-- [ ] I: Infinity stone
+  - [11]
+- [x] H: Honorable medallion
+  - [6] 
+  - [5]
+  - [9]
+  - [13]
+- [x] I: Infinity stone
+  - [13]
   - [3] 
-- [ ] J: Jug of blood
-- [ ] K: usb Keyboard
-- [ ] L: antique Lamp
+  - [7]
+  - [16]
+- [x] J: Jug of blood
+  - [9] 
+  - [12]
+  - [15]
+- [x] K: usb Keyboard
+  - [12]
+  - [3] 
+  - [4]
+- [x] L: antique Lamp
+  - [7]
   - [2] 
-- [ ] M: Meteorite core
+  - [5]
+- [x] M: Meteorite core
+  - [15]
   - [1] 
-- [ ] N: Noisemaker
+  - [7]
+- [x] N: Noisemaker
+  - [14]
   - [2] 
-- [ ] O: Owala bottle
+- [x] O: Owala bottle
   - [2] 
+  - [8]
+  - [14]
+  - [16]
 
+Note: ChatGPT could not solve this problem^
+- apparently it's something to do with a bipartite graph
 
 Items:
 - [x] Gold Rubber duck (duckenstone)
