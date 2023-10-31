@@ -74,62 +74,62 @@ Characters (Prelim)
 
 Assigning Items
 - [x] A: Atwater multi-tool
-  - [3] 
+  - [[3]] 
   - [8]
 - [x] B: two Bananas
-  - [16] 
+  - [[16]] 
   - [4]
   - [11]
 - [x] C: Colorado flag
-  - [11] 
+  - [[11]] 
   - [6]
 - [x] D: Deadly Crowbar
-  - [5] 
+  - [[5]] 
   - [12]
   - [15]
 - [x] E: Expressionless portrait
-  - [4] 
+  - [[4]] 
   - [13]
 - [x] F: Fork-spoon
-  - [1]
+  - [[1]]
   - [6]
   - [9]
   - [14]
 - [x] G: Golden idol
-  - [8]
+  - [[8]]
   - [1]
   - [11]
 - [x] H: Honorable medallion
-  - [6] 
+  - [[6]] 
   - [5]
   - [9]
   - [13]
 - [x] I: Infinity stone
-  - [13]
+  - [[13]]
   - [3] 
   - [7]
   - [16]
 - [x] J: Jug of blood
-  - [9] 
+  - [[9]] 
   - [12]
   - [15]
 - [x] K: usb Keyboard
-  - [12]
+  - [[12]]
   - [3] 
   - [4]
 - [x] L: antique Lamp
-  - [7]
-  - [2] 
+  - [[7]]
+  - [2] x
   - [5]
 - [x] M: Meteorite core
-  - [15]
+  - [[15]]
   - [1] 
   - [7]
 - [x] N: Noisemaker
-  - [14]
+  - [[14]]
   - [2] 
 - [x] O: Owala bottle
-  - [2] 
+  - [[2]] 
   - [8]
   - [14]
   - [16]
